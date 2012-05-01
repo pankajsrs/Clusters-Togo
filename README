@@ -1,0 +1,5 @@
+-- Upload all files in the root folder of website
+-- Upload database from /sql/ folder
+-- Change database setting from wp-config.php files
+-- Change Wordpress siteurl and home url from wp_options table, see given screenshot from /sql/ folder 
+-- You can also use replace_all.php (from /sql/ folder) to replace all instance old website url from database, please adjust database and search & replace parameters as per your use.
